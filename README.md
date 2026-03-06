@@ -1,3 +1,9 @@
+# Product Price Comparison Application - Final Project
+Developed by Ezedeen (ezedeem223) for IBM Application Development using Microservices and Serverless course.
+Customized microservices endpoints, added personal branding, and modified deployment labels.
+
+---
+
 # Product Price Comparison Application
 
 This project demonstrates deploying a microservices-based application on IBM Cloud Code Engine. It includes two backend microservices (Python and Node.js) and a frontend microservice.
